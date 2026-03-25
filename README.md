@@ -14,4 +14,3 @@ A simple Queue Management application built using React that allows users to add
 - JavaScript (ES6)
 - Tailwind CSS
 - Vite
-
